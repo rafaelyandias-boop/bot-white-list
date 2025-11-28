@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-verificacao",
+  "version": "1.0.0",
+  "description": "Bot de verificação e códigos para Roblox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
